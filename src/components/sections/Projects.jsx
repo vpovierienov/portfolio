@@ -10,7 +10,7 @@ export const Projects = () => {
                 {/*Project webiste by Vittello - 1*/}
                 <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 hover:border-blue-500/30 hover:shadow-[0_2px_8px_rgba(59, 130, 246, 0.2)] transition">
                     <h3 className="text-xl font-bold mb-2" data-aos="fade-right">Website - 1 </h3>
-                    <p className="text-gray-400 mb-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam, quaerat?</p>
+                    <p className="text-gray-400 mb-4">Commercial project. 2025. Website for a company deGym in Bayern. Stack HTML, CSS, JavaScript</p>
                     <div>
                     {["HTML", "CSS", "JavaScript"].map((tech, key) =>(
                         <span 

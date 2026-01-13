@@ -23,9 +23,12 @@ export const About = () => {
             <h2 className="text-3xl font-bold mb-8 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right text-center">About Me</h2>
 
             <div className="rounded-xl p-8 border-white/10 border hover:-translate-y-1 transition-all">
-                <p className="text-gray-300 mb-6 text-center">
-                    Frontend developer with good critical thinking.
-                    Experience in bulding UI website and applications.
+                <p className="text-gray-300 mb-6 text-center text-xl">
+                    <strong>Vitalii Povierienov</strong> <br /> a frontend developer with a passion for creating sleek, user-friendly web applications. I specialize in building responsive interfaces that not only look great but also perform well across devices.
+                   
+                   <br /> My main tools include React, TypeScript, Tailwind CSS, and Git. I’m constantly learning and improving, following best practices in UI/UX and frontend architecture. I’ve built several real-world projects, including single-page apps and mobile-first responsive layouts.
+
+                   <br /> I’m currently open to freelance opportunities, part-time work, or full-time roles.
                 </p>
 
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

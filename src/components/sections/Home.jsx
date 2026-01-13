@@ -5,14 +5,11 @@ export const Home = () => {
                 I'm Vitalii Povierienov
             </h1>
 
-            <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto" aos="fade-up">
-                Goal-oriented developer.
-                I am keen on writing clean and maintainable
-                code and finding user-friendly solutions. I'm using different frontend
-                technologies like <strong>React.js</strong> and othersto develop the user
-                interface of a full responsive website or
-                software application.
+            <p className="text-gray-400 text-xl mb-8 max-w-lg mx-auto" aos="fade-up">
+                Frontend developer building modern, responsive, and user-focused websites and web-applications.
+                Experienced with React.js and modern frontend technologies, delivering clean, maintainable code with strong attention to performance, usability, and visual detail.
             </p>
+
 
             <div className="flex justify-center space-x-4" aos="fade-up">
                 <a href="#projects" className="bg-blue-500 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 hover:shadow-[0_0_15px_rgba(59, 130, 246, 0.4)]">View Projects</a>
